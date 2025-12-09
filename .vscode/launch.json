@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Debug with Conda",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "python": "/userHome/userhome3/timur/miniconda3/envs/HF/bin/python"
+        }
+    ]
+}
